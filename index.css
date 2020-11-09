@@ -1,0 +1,227 @@
+/************************/
+/* 	    COLORS        */
+/************************/
+
+.primary {
+	background-color: #FC5C9C;
+}
+
+
+.secondary {
+  background-color: #FCC4DC;
+}
+
+.text-primary {
+  color: #000000;	
+}
+
+.body {
+  background-color:#6C6C74,#ACACAC,#CCCCCC;
+}
+
+/************************/
+/* 	    HEADINGS        */
+/************************/
+
+.headings {
+  font-family: Georgia; 
+}
+
+.text {
+  font-family: Rooney;
+  font-size: 14 px;
+}
+
+.h1 {
+  font-family: Helvetica;
+  font-size: 51 px;
+  font-weight: bold;
+}
+
+.h2, .h3, .h4, .h5, .h6 {
+  font-family: Helvetica;
+}
+
+.p {
+  font-family: Roboto;
+}
+
+.lead {
+  font-family: Quicksand;
+}
+
+.blockquote {
+  font-family: Karla;
+}
+
+.ul .ol .li {
+  font-family: Verdana;
+}
+
+/************************/
+/* 	    BUTTONS        */
+/************************/
+
+.success {
+  background-color: #4CBC14;
+}
+
+.danger {
+  color: #FC0404;
+} 
+
+.warning {
+  color: #FC5C04;
+}
+ 
+.info {
+  color: #1CACF4;
+} 
+
+.btn {
+  border-radius: 30%;
+  background-color: #FCC4DC;
+  border-color: #FC5C9C;
+  vertical-align: auto;
+  height: 12mm;
+  width: 12mm;
+}
+
+.sm {
+  border-radius: 30%;
+  color: #FCC4DC;
+  border-color: #FC5C9C;
+  height: 8mm;
+  width: 8mm;
+  vertical-align: auto;
+}
+
+.lg {
+  border-radius: 30%;
+  color: #FCC4DC;
+  border-color: #FC5C9C;
+  height: 12mm;
+  width: 12mm;
+  vertical-align: auto;
+}
+
+.success:hover {
+  color: #4CBC14;
+}
+
+.danger:hover {
+  color: #FC0404;
+} 
+
+.warning:hover {
+  color: #FC5C04;
+}
+ 
+.info:hover {
+  color: #1CACF4;
+} 
+
+.btn:hover {
+  border-radius: 30%;
+  background-color: #FC5C9C;
+  border-color: #FCC4DC;
+  vertical-align: auto;
+  height: 12mm;
+  width: 12mm;
+}
+
+.sm:hover {
+  border-radius: 30%;
+  background-color: #FC5C9C;
+  border-color: #FCC4DC;
+  height: 8mm;
+  width: 8mm;
+  vertical-align: auto;
+}
+
+.lg:hover {
+  border-radius: 30%;
+  background-color: #FC5C9C;
+  border-color: #FCC4DC;
+  height: 12mm;
+  width: 12mm;
+  vertical-align: auto;
+}
+
+/************************/
+/* 	    FORMS           */
+/************************/
+
+.form-control {
+  border-radius: 30%;
+  height: 16mm;
+  width: 16mm;
+  vertical-align: auto;
+}
+
+.form-control:hover {
+  border-radius: 30%;
+  height: 16mm;
+  width: 16mm;
+  vertical-align: auto;
+  background-color: #FCC4DC;
+}
+
+.custom-select {
+  border-radius: 30%;
+  height: 16mm;
+  width: 16mm;
+  vertical-align: auto;
+}
+
+.custom-select:hover {
+  border-radius: 30%;
+  height: 16mm;
+  width: 16mm;
+  vertical-align: auto;
+  background-color: #FCC4DC;
+}
+
+.form-check {
+  height: 4mm;
+  width: 4mm;
+}
+
+.form-check:hover {
+  height: 4mm;
+  width: 4mm;
+  background-color: #FCC4DC;
+}
+
+/************************/
+/* 	    LISTS           */
+/************************/
+
+.mdc-list {
+  text-align: justify;
+  text-decoration: underline;
+  text-decoration-color: #FCC4DC;
+}
+
+.mdc-list-item {
+  text-align: justify;
+}
+
+/************************/
+/* 	    CARDS           */
+/************************/
+
+.card {
+  margin: auto;
+  background-color: #FC5C9C;
+}
+
+.card-body {
+  margin: auto;
+  text-align: justify;
+}
+
+.card-title {
+  margin: auto;
+  text-align: justify;
+}
